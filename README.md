@@ -1,4 +1,4 @@
-# Rust Spoofer
+# Spoofer
 ![image](https://github.com/argocommunity/spoofer/assets/113839299/eef22bad-4c17-4d51-b4a4-2f135933e6d1)
 # VİDEO #
 https://www.youtube.com/watch?v=y3TiQFuOIBU
